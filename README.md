@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suat
 - 👀 I’m interested in Big Data,Backend,Mobile App
 - 🌱 I’m currently learning Golang,Fiber Framework,Flutter,Spark,Kafka
-- 📫 How to reach me Linkedin: suatcnby06@gmail.com 
+- 📫 How to reach me mail address: suatcnby06@gmail.com 
 
 <!---
 harezmii/harezmii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
